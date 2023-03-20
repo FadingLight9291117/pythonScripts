@@ -7,4 +7,4 @@
 
 ## 图像类
 
-1. [图像文件转换为pdf格式](./img2pdf.py)
+1. [imgs2pdf.py](./img2pdf.py) - 将jpg,png图像转换为pdf格式
