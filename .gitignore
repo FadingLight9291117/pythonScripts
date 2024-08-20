@@ -2,3 +2,6 @@
 *.png
 *.jpg
 *.jpeg
+pyvenv.cfg
+Lib
+Scripts
