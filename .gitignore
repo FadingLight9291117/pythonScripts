@@ -1,7 +1,2 @@
-*.svg
-*.png
-*.jpg
-*.jpeg
-pyvenv.cfg
-Lib
-Scripts
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
